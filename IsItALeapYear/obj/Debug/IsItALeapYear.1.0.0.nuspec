@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>IsItALeapYear</id>
+    <version>1.0.0</version>
+    <authors>IsItALeapYear</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.json" target="lib\netcoreapp3.1\IsItALeapYear.runtimeconfig.json" />
+    <file src="D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.dll" target="lib\netcoreapp3.1\IsItALeapYear.dll" />
+  </files>
+</package>
